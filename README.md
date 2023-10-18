@@ -37,7 +37,7 @@ Hi! My name is Nikhil Mahato 😄
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux,git,github,java" />
   </a>
 </p>
 
