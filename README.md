@@ -6,16 +6,16 @@ Hi! My name is Nikhil Mahato 😄
 🌍  I am a Front-End Developer based in India.
 <br/>
 <p align="center"> 
-  <a href="#">
+  <a href="https://x.com/nikhilmahato21">
     <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
     
   </a>
   
-   <a href="#">
+   <a href="https://nikhilmahato.online/">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
   
-  <a href="#">
+  <a href="https://www.linkedin.com/in/nikhilmahato21/">
     <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
   </a>
   
